@@ -1,5 +1,5 @@
 {
-  "Plugin-Class": "org.k4n3d4.HideNightVisionPlugin",
+  "Plugin-Class": "org.k4n3d4.HideNightVision.HideNightVisionPlugin",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
   "Description": "Rusherhack plugin that hide the night vision effect on the HUD",
